@@ -2,7 +2,10 @@ START_MESSAGE (don't delete this line) \
 Congratulations on finishing iteration 2! This is the biggest difficulty spike 
 in the course, so I am very proud of all of you for rising to the challenge!
 
-**Below is a quick breakdown of the manual mark portion of iter2.** The majority of these marks come from style and git practices! If a section was done perfectly, I won’t have many comments. The marks range from [unsatisfactory/limited/developing/satisfactory/proficient/outstanding]:
+**Below is a quick breakdown of the manual mark portion of iter2.** The majority 
+of these marks come from style and git practices! If a section was done 
+perfectly, I won’t have many comments. The marks range from 
+[unsatisfactory/limited/developing/satisfactory/proficient/outstanding]:
 END_MESSAGE (don't delete this line) \ 
 **Additional notes:**
 * I've added a bunch of feedback comments to your code. You should search for 
